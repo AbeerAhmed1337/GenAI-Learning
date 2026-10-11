@@ -1,0 +1,14 @@
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+langchain-openai
+langchain-text-splitters
+streamlit
+langchain-community
+langgraph
+pypdf
+beautifulsoup4
+pinecone
+torchvision
+

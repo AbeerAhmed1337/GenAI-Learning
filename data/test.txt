@@ -1,0 +1,20 @@
+Aslam o Walaikum,
+
+I hope you're doing well. I'm writing to apply for the AI Developer Intern / Junior AI Developer position, and honestly, I'm excited about it — because this is exactly the kind of work I've been pouring myself into over the last year.
+
+I graduated in Computer Science from NED University, but I'll be upfront: I learned way more building things than I ever did in lectures. After graduating, I didn't want to just read about AI — I wanted to break it, fix it, and make it useful. So I did.
+
+The project I'm proudest of is CollabriAI — a multi-agent project management assistant. It's not a chatbot wrapper pretending to be AI. It's built with FastAPI, LangChain, LangGraph, and Groq, and uses Neo4j knowledge graphs so the system actually understands context across tasks and users. Instead of blindly routing queries, it figures out which LLM (Llama, DeepSeek, or Claude) is best suited for each request. That alone cut response times by 40%, and it's now serving 100+ users.
+
+I've also built a backend for Codebase Q&A that maps out call graphs with Neo4j and Groq — so you can ask "where does this function break?" and get an actual dependency chain, not a guess. And I've worked on a financial document pipeline with LangChain and Pydantic, which taught me how messy real-world data can be and how to structure it anyway.
+
+Here's my GitHub if you want to poke around: https://github.com/AbeerAhmed1337
+And a portfolio with more context: https://portfolio-bice-psi-t09twg7r92.vercel.app/
+
+Why AI development?
+I'm not looking for a job just to have one. I want to spend my days figuring out how to make LLMs actually useful — not just generate text, but retrieve the right thing, route intelligently, and orchestrate reliably. That's the systems part I genuinely love. I'm solid on the basics (Python, APIs, SQL, Git), but what I really want is to go deeper — into RAG, vector databases, production-grade agents — and I'd genuinely value the kind of mentorship that comes from working on real client projects.
+
+I'm ready to work hard, ask smart questions, and contribute from day one. Would love the chance to talk more about how I can help your team.
+
+Thanks for your time,
+Abeer
